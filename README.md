@@ -224,10 +224,3 @@ You can retrain the gesture classifier using your own dataset:
 - Real-time text-to-sign avatar
 
 ---
-
-## 👩‍💻 Author
-
-**Bhavya Sree**
-🔗 GitHub: [Bhavya0420](https://github.com/Bhavya0420)
-
----
