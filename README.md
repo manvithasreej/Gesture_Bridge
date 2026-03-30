@@ -116,28 +116,23 @@ SpeechRecognition
 
 ## ⚙️ Installation & Setup
 
-### 1️⃣ Clone the Repository
 
-```bash
-git clone https://github.com/Bhavya0420/Gesture_Bridge.git
-cd Gesture_Bridge
-```
 
-### 2️⃣ Create & Activate Virtual Environment
+### 1 Create & Activate Virtual Environment
 
 ```bash
 python -m venv venv
 venv\Scripts\activate
 ```
 
-### 3️⃣ Install Dependencies
+### 2 Install Dependencies
 
 ```bash
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-### 4️⃣ Run the Application
+### 3 Run the Application
 
 ```bash
 python app.py
@@ -163,8 +158,6 @@ python app.py
 
   - Phrase GIF (if predefined).
   - Letter-by-letter sign images (if not).
-
-- Say **“goodbye”** to exit automatically.
 
 ---
 
@@ -215,12 +208,4 @@ You can retrain the gesture classifier using your own dataset:
 
 ---
 
-## 🚀 Future Enhancements
 
-- Support for **full sentence sign animation**
-- Multilingual speech input
-- Mobile & web-based deployment
-- Enhanced dataset for more gestures
-- Real-time text-to-sign avatar
-
----
